@@ -1,16 +1,25 @@
-# todoapp
+# ToDo App - Flutter Project
 
-A new Flutter project.
+Welcome to the **ToDo App**, a Flutter-based project that helps you manage tasks efficiently. This guide will help you set up and run the app on both Android and iOS devices.
 
-## Getting Started
+## Setup Instructions
 
-This project is a starting point for a Flutter application.
+### 1. Install Flutter SDK
 
-A few resources to get you started if this is your first Flutter project:
+If you don’t have the latest Flutter SDK (`>=3.4.0 <4.0.0`), write this command in the terminal: flutter upgrade
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 2. Install Dependencies
+After upgrading Flutter, run the following command to install project dependencies: flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Prerequisites
+
+- **Flutter SDK**: Version `>=3.4.0 <4.0.0`
+- **Android SDK**: Version 23 or above
+- **iOS SDK**: Version 13 or above
+
+
+
+
+
+
